@@ -61,6 +61,7 @@ Perl, PHP, Bash, TypeScript; jQuery; HTML, CSS, JSON, Bootstrap; React, Vue.js, 
 ### Other Information
 
 I have spoken variously at YAPC::Europe, the Kiev Perl workshop and OSDN-UA-2013
+
 I'm on top 0.2% of CodinGame's worldwide global programmers ranking (Oct.2018)
 
 #### Hobbies
