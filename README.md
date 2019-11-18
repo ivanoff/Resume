@@ -12,8 +12,8 @@ Node.js; JavaScript, ES6; React.js, React Native, Expo.io, Electron; MongoDB, Po
 Perl, PHP, Bash, TypeScript; jQuery; HTML, CSS, JSON, Bootstrap; React, Vue.js, MySQL, SQLite, Couchbase, Elasticsearch; Fedora, RedHat, CentOS; Nginx, Exim, Apache HTTP server, Dovecot, Bind, KVM, vsftp, Samba, Squid, ffmpeg; svn; AWS, JIRA, Scrum; RabbitMQ, ZeroMQ; Asterisk PBX; Slack/Telegram bots; Kdenlive, Blender, GIMP, Inkscape;
 
 ### Working Experience
-- Nov.2018 - now : Senior Node.js developer @ CEX.IO. Kyiv, UA. Bitcoin processing improvements; Metahash integration; Create of MRZ-code recognizer; Compliance officers supports (KYC, AML)
-- Sep.2017 - Oct.2018 : Node.js developer, Senior Software Engineer @ Innovecs. Kyiv, UA. Developing of RESTful highly-loaded system of data analysis and processing based on microservices architecture.
+- Nov.2018 - now :** Senior Node.js developer** @ CEX.IO. Kyiv, UA. Bitcoin processing improvements; Metahash integration; Create of MRZ-code recognizer; Compliance officers supports (KYC, AML)
+- Sep.2017 - Oct.2018 : **Node.js developer, Senior Software Engineer** @ Innovecs. Kyiv, UA. Developing of RESTful highly-loaded system of data analysis and processing based on microservices architecture.
 - Jun.2013 - Aug.2017 : Middle Node.js developer, Senior Perl Developer @ Argest. group. Kyiv, UA. Creating Railway Ticket Service for Ukrainian state-owned enterprise and Online Bus Ticket Service.
 - Oct.2012 - Jun.2013 : Senior Perl Developer, Configuration manager @ Luxoft. Kyiv, UA. Outsource support and development for one of the largest German global banking and financial services company.
 - Jun.2010 - Sep.2011 : Lead Perl developer @ SP Chizhov. Kyiv, UA. Developing of VOIP billing and VOIP call transfer system, Centralized management system, based on KVM, screen recognition system.
@@ -21,21 +21,21 @@ Perl, PHP, Bash, TypeScript; jQuery; HTML, CSS, JSON, Bootstrap; React, Vue.js, 
 - Oct.2003 - May.2008 : System Administrator, Senior University Teacher @ European University, Sevastopol, UA.
 
 ### Projects and Products From Scratch
-- Colors.click: get list of colors by photo or camera; includes website, Android and IOS apps, desktop apps for Windows, Linux and Mac OS;
-- Bitcoin Tracking Accounts Activity: instant check any bitcoin address history; continuous tracking of new transactions for 2M+ monitored BTC wallets;
-- Online Bus Ticket Service, Bus Management Service System, 1K+ daily sales; Temporary email web-system;
-- Railway Ticket Service for Ukrainian state-owned enterprise;
-- Bots for Slack and for Telegramm messenger;
-- Windows user's common behavior with screen recognition system and Centralized Management System, based on KVM virtual machines;
-- Betamax VOIP combinator, cheaper destination finder, VOIP call transfer system with 70K+ users per day unique calls, VOIP billing;
-- Website tor-downloader - getting full website copy by 20-1Kx faster;
-- Simpleness CMS;
-- Simpleness Parental Control for blocking adult web-sites on Linux;
-- Automatic Call Distribution system for contact centres, 5K+ calls per day, including phone call statistic, listening of stored phone records;
-- Outgoing Call System, 1M+ abonents;
-- Interactive Voice Response (IVR) system;
-- Phone services: Weather Forecast by Phone, Alarm Clock Incoming Call, Automatically texting system, Current time by phone, Finance informator service: currency exchange rates, precious metal values;
-- Web-sites: corporates, datings, social networkings, affiliates, personals, blogs and other types;
+- **Colors.click**: get list of colors by photo or camera; includes website, Android and IOS apps, desktop apps for Windows, Linux and Mac OS;
+- **Bitcoin Tracking Accounts Activity**: instant check any bitcoin address history; continuous tracking of new transactions for 2M+ monitored BTC wallets;
+- **Online Bus Ticket Service**, Bus Management Service System, 1K+ daily sales; Temporary email web-system;
+- **Railway Ticket Service** for Ukrainian state-owned enterprise;
+- **Bots** for Slack and for Telegramm messenger;
+- Windows user's common behavior with screen recognition system and **Centralized Management System**, based on KVM virtual machines;
+- **Betamax VOIP combinator**, cheaper destination finder, VOIP call transfer system with 70K+ users per day unique calls, VOIP billing;
+- **Website tor-downloader** - getting full website copy by 20-1Kx faster;
+- **Simpleness CMS**;
+- **Simpleness Parental Control** for blocking adult web-sites on Linux;
+- **Automatic Call Distribution system** for contact centres, 5K+ calls per day, including phone call statistic, listening of stored phone records;
+- **Outgoing Call System**, 1M+ abonents;
+- **Interactive Voice Response** (IVR) system;
+- **Phone services**: Weather Forecast by Phone, Alarm Clock Incoming Call, Automatically texting system, Current time by phone, Finance informator service: currency exchange rates, precious metal values;
+- **Web-sites**: corporates, datings, social networkings, affiliates, personals, blogs and other types;
 
 ### Open-source Projects
 - 2019 - curr : Get and share colors @ Colors.click
