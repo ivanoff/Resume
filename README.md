@@ -2,8 +2,7 @@
 
 Software Engineer
 
-+38-0916-022-677
-2@ivanoff.org.ua
+e-mail: 2@ivanoff.org.ua, phone: +38-0916-022-677
 
 ### Actual Skills and Technologies
 Node.js; JavaScript, ES6; React.js, React Native, Expo.io, Electron; MongoDB, PostgreSQL, Memchache; REST API; Docker, Kubernetes; Ubuntu; Git
@@ -73,11 +72,19 @@ Cooking, Playing guitar, Photography, Eight-ball
 ### Links and Contacts
 
 phone: +38-0916-022-677
+
 e-mail: 2@ivanoff.org.ua
+
 web-site: http://ivanoff.org.ua
+
 location: Kyiv, Ukraine
+
 telegram: @ivanoff_org_ua
+
 GitHub: https://github.com/ivanoff
+
 npm: https://www.npmjs.com/~ivanoff
+
 Linkedin: http://ivanoff.org.ua/linkedin
+
 Codingame: http://ivanoff.org.ua/codingame
