@@ -6,13 +6,13 @@ Software Engineer
 - +38-0916-022-677
 
 ### Actual Skills and Technologies
-Node.js; JavaScript, ES6; React.js, React Native, Expo.io, Electron; MongoDB, PostgreSQL, Memchache; REST API; Docker, Kubernetes; Ubuntu; Git
+Node.js; JavaScript, ES6, Bash; React, React Native, Expo.io; MongoDB, PostgreSQL, Memchache; HTML, CSS, JSON; Bootstrap; REST API; Docker, Kubernetes; Ubuntu; Git
 
 #### Used Earlier
-Perl, PHP, Bash, TypeScript; jQuery; HTML, CSS, JSON, Bootstrap; React, Vue.js, MySQL, SQLite, Couchbase, Elasticsearch; Fedora, RedHat, CentOS; Nginx, Exim, Apache HTTP server, Dovecot, Bind, KVM, vsftp, Samba, Squid, ffmpeg; svn; AWS, JIRA, Scrum; RabbitMQ, ZeroMQ; Asterisk PBX; Slack/Telegram bots; Kdenlive, Blender, GIMP, Inkscape;
+Perl, PHP, TypeScript; jQuery; Vue.js, Electron; MySQL, SQLite, Couchbase, Elasticsearch; Fedora, RedHat, CentOS; Nginx, Exim, Apache HTTP server, Dovecot, Bind, KVM, vsftp, Samba, Squid, ffmpeg; svn; AWS, JIRA, Scrum; RabbitMQ, ZeroMQ; Asterisk PBX; Slack/Telegram bots; Kdenlive, Blender, GIMP, Inkscape;
 
 ### Working Experience
-- Nov.2018 - now : **Senior Node.js developer** @ CEX.IO. Kyiv, UA. Bitcoin processing improvements; Metahash integration; Create of MRZ-code recognizer; Compliance officers supports (KYC, AML)
+- Nov.2018 - Feb.2020 : **Senior Node.js developer** @ CEX.IO. Kyiv, UA. Bitcoin processing improvements; Metahash integration; Creating of MRZ-code recognizer; Compliance officers supports (KYC, AML)
 - Sep.2017 - Oct.2018 : **Node.js developer, Senior Software Engineer** @ Innovecs. Kyiv, UA. Developing of RESTful highly-loaded system of data analysis and processing based on microservices architecture.
 - Jun.2013 - Aug.2017 : Middle Node.js developer, Senior Perl Developer @ Argest. group. Kyiv, UA. Creating Railway Ticket Service for Ukrainian state-owned enterprise and Online Bus Ticket Service.
 - Oct.2012 - Jun.2013 : Senior Perl Developer, Configuration manager @ Luxoft. Kyiv, UA. Outsource support and development for one of the largest German global banking and financial services company.
@@ -21,6 +21,8 @@ Perl, PHP, Bash, TypeScript; jQuery; HTML, CSS, JSON, Bootstrap; React, Vue.js, 
 - Oct.2003 - May.2008 : System Administrator, Senior University Teacher @ European University, Sevastopol, UA.
 
 ### Projects and Products From Scratch
+- **Load43**: find cargo near your trucks, find truck near your cargoes, load for free;
+- **Icons for React Native**: Use more than 5900 icons in your React Native application with react-native-ico;
 - **Colors.click**: get list of colors by photo or camera; includes website, Android and IOS apps, desktop apps for Windows, Linux and Mac OS;
 - **Bitcoin Tracking Accounts Activity**: instant check any bitcoin address history; continuous tracking of new transactions for 2M+ monitored BTC wallets;
 - **Online Bus Ticket Service**, Bus Management Service System, 1K+ daily sales; Temporary email web-system;
@@ -38,7 +40,8 @@ Perl, PHP, Bash, TypeScript; jQuery; HTML, CSS, JSON, Bootstrap; React, Vue.js, 
 - **Web-sites**: corporates, datings, social networkings, affiliates, personals, blogs and other types;
 
 ### Open-source Projects
-- 2019 - curr : Get and share colors @ Colors.click
+- 2019 - 2020 : Icons for React Native @ ico.simpleness.org
+- 2019 - 2020 : Get and share colors @ Colors.click
 - 2015 - 2019 : Compare Node.js's images processing modules @ github.com
 - 2016 - 2017 : create-REST-API @ github.com
 - 2017 - 2017 : create-RAML, @ github.com
@@ -48,7 +51,7 @@ Perl, PHP, Bash, TypeScript; jQuery; HTML, CSS, JSON, Bootstrap; React, Vue.js, 
 - 2013 - 2014 : Simpleness Parental Control @ parents.simpleness.org
 - 2018 - stall: REST-API-Server @ github.com
 - 2018 - stall: API-I @ github.com
-- Npm modules: api-i, images-manipulation-performance, create-rest-api, 2conf consecutive, guess-color, express2md, 2pid, 2log, time-checker, create-raml
+- Npm modules: api-i, images-manipulation-performance, create-rest-api, 2conf consecutive, guess-color, express2md, 2pid, 2log, time-checker, create-raml, react-native-ico
 
 ### Education
 1997 - 2002 : BEng in Computer Science @ Sevastopol National Technical University, UA. Automation and computer engineering.
@@ -76,6 +79,7 @@ Cooking, Playing guitar, Photography, Eight-ball
 - phone: +38-0916-022-677
 - e-mail: 2@ivanoff.org.ua
 - web-site: http://ivanoff.org.ua
+- date of birth: 02/1980
 - location: Kyiv, Ukraine
 - telegram: @ivanoff_org_ua
 - GitHub: https://github.com/ivanoff
