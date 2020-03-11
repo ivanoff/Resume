@@ -12,6 +12,7 @@ Node.js; JavaScript, ES6, Bash; React, React Native, Expo.io; MongoDB, PostgreSQ
 Perl, PHP, TypeScript; jQuery; Vue.js, Electron; MySQL, SQLite, Couchbase, Elasticsearch; Fedora, RedHat, CentOS; Nginx, Exim, Apache HTTP server, Dovecot, Bind, KVM, vsftp, Samba, Squid, ffmpeg; svn; AWS, JIRA, Scrum; RabbitMQ, ZeroMQ; Asterisk PBX; Slack/Telegram bots; Kdenlive, Blender, GIMP, Inkscape;
 
 ### Working Experience
+- Mar.2020 - present  : **Senior Node.js developer** @ SIGNET.
 - Nov.2018 - Feb.2020 : **Senior Node.js developer** @ CEX.IO. Kyiv, UA. Bitcoin processing improvements; Metahash integration; Creating of MRZ-code recognizer; Compliance officers supports (KYC, AML)
 - Sep.2017 - Oct.2018 : **Node.js developer, Senior Software Engineer** @ Innovecs. Kyiv, UA. Developing of RESTful highly-loaded system of data analysis and processing based on microservices architecture.
 - Jun.2013 - Aug.2017 : Middle Node.js developer, Senior Perl Developer @ Argest. group. Kyiv, UA. Creating Railway Ticket Service for Ukrainian state-owned enterprise and Online Bus Ticket Service.
