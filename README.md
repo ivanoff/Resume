@@ -22,6 +22,7 @@ Perl, PHP; jQuery; Vue.js, Expo.io; MySQL, Memchache, SQLite, Couchbase, Elastic
 - Oct.2003 - May.2008 : System Administrator, Senior University Teacher @ European University, Sevastopol, UA.
 
 ### Projects and Products From Scratch
+- **Remembo**: Words-description pairs. Multilingual Android app with public groups, quiz, cloud storage, favourites and dark mode.
 - **Load43**: find cargo near your trucks, find truck near your cargoes, load for free;
 - **RSS Feeder**: Collecting data from RSS-sources. Giving access to that data by authorization and access controls. Handling overloads.
 - **Bitcoin Tracking Accounts Activity**: instant check any bitcoin address history; continuous tracking of new transactions for 2M+ monitored BTC wallets;
@@ -41,7 +42,8 @@ Perl, PHP; jQuery; Vue.js, Expo.io; MySQL, Memchache, SQLite, Couchbase, Elastic
 - **Phone services**: Weather Forecast by Phone, Alarm Clock Incoming Call, Automatically texting system, Current time by phone, Finance informator service: currency exchange rates, precious metal values;
 - **Web-sites**: corporates, datings, social networkings, affiliates, personals, blogs and other types;
 
-### Open-source Projects
+### Open-source Projects (the complete list is on github.com/ivanoff)
+- 2019 - 2020 : The-API @ github.com
 - 2019 - 2020 : Icons for React Native @ ico.simpleness.org
 - 2019 - 2020 : Get and share colors @ Colors.click
 - 2015 - 2019 : Compare Node.js's images processing modules @ github.com
@@ -53,7 +55,7 @@ Perl, PHP; jQuery; Vue.js, Expo.io; MySQL, Memchache, SQLite, Couchbase, Elastic
 - 2015 - 2016 : Amazon S3 gate API @ s3.simpleness.org
 - 2011 - 2016 : Simpleness CMS @ cms.simpleness.org
 - 2013 - 2014 : Simpleness Parental Control @ parents.simpleness.org
-- Npm modules: api-i, images-manipulation-performance, create-rest-api, 2conf consecutive, guess-color, express2md, 2pid, 2log, time-checker, create-raml, react-native-ico
+- Npm modules: the-api, images-manipulation-performance, api-i, create-rest-api, 2conf, consecutive, guess-color, express2md, 2pid, 2log, time-checker, create-raml, react-native-ico
 
 ### Education
 1997 - 2002 : BEng in Computer Science @ Sevastopol National Technical University, UA. Automation and computer engineering.
