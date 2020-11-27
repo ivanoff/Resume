@@ -26,7 +26,8 @@ Perl, PHP; jQuery; Vue.js, Expo.io; MySQL, Memchache, SQLite, Couchbase, Elastic
 - **Load43**: find cargo near your trucks, find truck near your cargoes, load for free;
 - **RSS Feeder**: Collecting data from RSS-sources. Giving access to that data by authorization and access controls. Handling overloads.
 - **Bitcoin Tracking Accounts Activity**: instant check any bitcoin address history; continuous tracking of new transactions for 2M+ monitored BTC wallets;
-- **Online Bus Ticket Service**, Bus Management Service System, 1K+ daily sales; Temporary email web-system;
+- **Online Bus Ticket Service**, Bus Management Service System, 1K+ daily sales;
+- **Temporary email web-system**;
 - **Railway Ticket Service** for Ukrainian state-owned enterprise;
 - **Icons for React Native**: Use more than 5900 icons in your React Native application with react-native-ico;
 - **Colors.click**: get list of colors by photo or camera; includes website, Android and IOS apps, desktop apps for Windows, Linux and Mac OS;
