@@ -1,6 +1,6 @@
 ## Dimitry Ivanov
 
-Senior Full-Stack Software Engineer
+Senior Software Engineer, Full-Stack developer, Team Lead
 
 - 2@ivanoff.org.ua
 - +38-0916-022-677
@@ -56,7 +56,7 @@ Perl, PHP; jQuery; Vue.js, Expo.io; MySQL, Memchache, SQLite, Couchbase, Elastic
 - 2015 - 2016 : Amazon S3 gate API @ s3.simpleness.org
 - 2011 - 2016 : Simpleness CMS @ cms.simpleness.org
 - 2013 - 2014 : Simpleness Parental Control @ parents.simpleness.org
-- Npm modules: the-api, images-manipulation-performance, api-i, create-rest-api, 2conf, consecutive, guess-color, express2md, 2pid, 2log, time-checker, create-raml, react-native-ico
+- Npm modules: consecutive, the-api, images-manipulation-performance, api-i, create-rest-api, 2conf, consecutive, guess-color, express2md, 2pid, 2log, time-checker, create-raml, react-native-ico
 
 ### Education
 1997 - 2002 : BEng in Computer Science @ Sevastopol National Technical University, UA. Automation and computer engineering.
@@ -86,7 +86,6 @@ Cooking, Playing guitar, Photography, Eight-ball
 - e-mail: 2@ivanoff.org.ua
 - web-site: http://ivanoff.org.ua
 - date of birth: 02/1980
-- telegram: @ivanoff_org_ua
 - GitHub: https://github.com/ivanoff
 - npm: https://www.npmjs.com/~ivanoff
 - Linkedin: http://ivanoff.org.ua/linkedin
