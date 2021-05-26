@@ -14,7 +14,7 @@ Perl, PHP; jQuery; Vue.js, Expo.io; MySQL, Memchache, SQLite, Couchbase, Elastic
 ### Working Experience
 - Mar.2020 - present  : **Senior Full-Stack Software Engineer, Team Lead** @ SIGNET. Kyiv, UA; San Jose, CA. Creating mixed back-end and front-end solutions for various clients.
 - Nov.2018 - Feb.2020 : **Senior Node.js developer** @ CEX.IO. Kyiv, UA. Bitcoin processing improvements; Metahash integration; Creating of MRZ-code recognizer; Compliance officers supports (KYC, AML)
-- Sep.2017 - Oct.2018 : **Node.js developer, Senior Software Engineer** @ Innovecs. Kyiv, UA. Developing of RESTful highly-loaded system of data analysis and processing based on microservices architecture.
+- Sep.2017 - Oct.2018 : **Node.js developer, Senior Software Engineer** @ Innovecs. Kyiv, UA. Developing of RESTful system of data analysis and processing based on microservices architecture.
 - Jun.2013 - Aug.2017 : Middle Node.js developer, Senior Perl Developer @ Argest. group. Kyiv, UA. Creating Railway Ticket Service for Ukrainian state-owned enterprise and Online Bus Ticket Service.
 - Oct.2012 - Jun.2013 : Senior Perl Developer, Configuration manager @ Luxoft. Kyiv, UA. Outsource support and development for one of the largest German global banking and financial services company.
 - Jun.2010 - Sep.2011 : Lead Perl developer @ SP Chizhov. Kyiv, UA. Developing of VOIP billing and VOIP call transfer system, Centralized management system, based on KVM, screen recognition system.
