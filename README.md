@@ -22,7 +22,8 @@ Perl, PHP; jQuery; Vue.js, Expo.io; MySQL, Memchache, SQLite, Couchbase, Elastic
 - Oct.2003 - May.2008 : System Administrator, Senior University Teacher @ European University, Sevastopol, UA.
 
 ### Projects and Products From Scratch
-- **Remembo**: Words-description pairs. Multilingual Android app with public groups, quiz, cloud storage, favourites and dark mode.
+- **Scrumpoker-online Estimation Auto Submitter**: Submit the most frequent estimation value;
+- **Remembo**: Words-description pairs. Multilingual Android app with public groups, quiz, cloud storage, favourites and dark mode;
 - **Load43**: find cargo near your trucks, find truck near your cargoes, load for free;
 - **RSS Feeder**: Collecting data from RSS-sources. Giving access to that data by authorization and access controls. Handling overloads.
 - **Bitcoin Tracking Accounts Activity**: instant check any bitcoin address history; continuous tracking of new transactions for 2M+ monitored BTC wallets;
@@ -44,6 +45,7 @@ Perl, PHP; jQuery; Vue.js, Expo.io; MySQL, Memchache, SQLite, Couchbase, Elastic
 - **Web-sites**: corporates, datings, social networkings, affiliates, personals, blogs and other types;
 
 ### Open-source Projects (the complete list is on github.com/ivanoff)
+- 2021 - 2021 : Scrumpoker-online Cheater @ github.com
 - 2019 - 2020 : The-API @ github.com
 - 2019 - 2020 : Icons for React Native @ ico.simpleness.org
 - 2019 - 2020 : Get and share colors @ Colors.click
@@ -73,7 +75,7 @@ I have spoken variously at YAPC::Europe, the Kiev Perl workshop and OSDN-UA-2013
 I'm on top 0.2% of CodinGame's worldwide global programmers ranking (Oct.2018)
 
 #### Hobbies
-Cooking, Playing guitar, Photography, Eight-ball
+Cooking, Playing guitar, Photography, Eight-ball, Archery
 
 #### Sponsor experience
 - 2009 - 2017 : Jourfixe classical music @ Bulgakov House. Kiev, UA
