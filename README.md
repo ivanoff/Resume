@@ -1,18 +1,18 @@
 ## Dimitry Ivanov
 
-Senior Software Engineer, Full-Stack developer, Team Lead
+Senior Software Engineer, Team Lead
 
 - 2@ivanoff.org.ua
 - +38-0916-022-677
 
 ### Actual Skills and Technologies
-Node.js; JavaScript, TypeScript, ES6, Bash; Angular, React, React Native; MongoDB, PostgreSQL, Redis; HTML, CSS, JSON; Electron; Bootstrap; REST API; Docker; Linux; Git; AWS; JIRA, Scrum;
+Node.js; JavaScript, TypeScript, ES6, Bash; React, React Native; MongoDB, PostgreSQL, Redis; RabbitMQ; HTML, CSS, JSON; Bootstrap; REST API; Docker; Linux; Git; AWS; JIRA, Scrum;
 
 #### Skills and technologies used over a year ago
-Perl, PHP; jQuery; Vue.js, Expo.io; MySQL, Memchache, SQLite, Couchbase, Elasticsearch; Fedora, RedHat, CentOS; Nginx, Exim, Apache HTTP server, Dovecot, Bind, KVM, vsftp, Samba, Squid, ffmpeg; Kubernetes; RabbitMQ, ZeroMQ; Asterisk PBX; svn; Slack/Telegram bots; Kdenlive, Blender, GIMP, Inkscape;
+Perl, PHP; jQuery; Angular, Vue.js, Expo.io, Apache Cordova; MySQL, Memchache, SQLite, Couchbase, Elasticsearch; Electron; Fedora, RedHat, CentOS; Nginx, Exim, Apache HTTP server, Dovecot, Bind, KVM, vsftp, Samba, Squid, ffmpeg; Kubernetes; ZeroMQ; Asterisk PBX; svn; Slack/Telegram bots; Kdenlive, Blender, GIMP, Inkscape;
 
 ### Working Experience
-- Mar.2020 - Oct.2021 : **Senior Full-Stack Software Engineer, Team Lead** @ SIGNET. Kyiv, UA; San Jose, CA. Creating mixed back-end and front-end solutions for various clients.
+- Mar.2020 - Oct.2021 : **Senior Full-Stack Software Engineer, Team Lead** @ SIGNET. Kyiv, UA; San Jose, CA. Creating mixed back-end and front-end solutions for dozens clients. Development of NexusCenter.io
 - Nov.2018 - Feb.2020 : **Senior Node.js developer** @ CEX.IO. Kyiv, UA. Bitcoin processing improvements; Metahash integration; Creating of MRZ-code recognizer; Compliance officers supports (KYC, AML)
 - Sep.2017 - Oct.2018 : **Node.js developer, Senior Software Engineer** @ Innovecs. Kyiv, UA. Developing of RESTful system of data analysis and processing based on microservices architecture.
 - Jun.2013 - Aug.2017 : Middle Node.js developer, Senior Perl Developer @ Argest. group. Kyiv, UA. Creating Railway Ticket Service for Ukrainian state-owned enterprise and Online Bus Ticket Service.
@@ -22,16 +22,16 @@ Perl, PHP; jQuery; Vue.js, Expo.io; MySQL, Memchache, SQLite, Couchbase, Elastic
 - Oct.2003 - May.2008 : System Administrator, Senior University Teacher @ European University, Sevastopol, UA.
 
 ### Projects and Products From Scratch
-- **Ships.trade**: We help search for ships all over the world;
+- **Ships.trade**: Use the most comprehensive source of shipbrokers vessels listings on the Internet with ships.trade;
 - **Remembo**: Words-description pairs. Multilingual Android app with public groups, quiz, cloud storage, favourites and dark mode;
-- **Load43**: find cargo near your trucks, find truck near your cargoes, load for free;
+- **Load43**: Find cargo near your trucks, find truck near your cargoes, load for free;
 - **RSS Feeder**: Collecting data from RSS-sources. Giving access to that data by authorization and access controls. Handling overloads.
-- **Bitcoin Tracking Accounts Activity**: instant check any bitcoin address history; continuous tracking of new transactions for 2M+ monitored BTC wallets;
+- **Bitcoin Tracking Accounts Activity**: Instant check any bitcoin address history; continuous tracking of new transactions for 2M+ monitored BTC wallets;
 - **Online Bus Ticket Service**, Bus Management Service System, 1K+ daily sales;
-- **Temporary email web-system**;
+- **Temporary email web-system**: You can send and receive emails with a temporary mailbox;
 - **Railway Ticket Service** for Ukrainian state-owned enterprise;
 - **Icons for React Native**: Use more than 5900 icons in your React Native application with react-native-ico;
-- **Colors.click**: get list of colors by photo or camera; includes website, Android and IOS apps, desktop apps for Windows, Linux and Mac OS;
+- **Colors.click**: Get list of colors by photo or camera; includes website, Android and IOS apps, desktop apps for Windows, Linux and Mac OS;
 - **Bots** for Slack and for Telegramm messenger;
 - **Centralized Management System** - windows user's common behavior with screen recognition, based on KVM virtual machines;
 - **Betamax VOIP combinator**, cheaper destination finder, VOIP call transfer system with 70K+ users per day unique calls, VOIP billing;
