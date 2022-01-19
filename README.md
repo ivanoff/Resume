@@ -1,20 +1,21 @@
 ## Dimitry Ivanov
 
-Senior Software Engineer, Team Lead
+Senior Software Engineer
 
 - 2@ivanoff.org.ua
 - +38-0916-022-677
 
 ### Actual Skills and Technologies
-Node.js; JavaScript, TypeScript, ES6, Bash; React, React Native; MongoDB, PostgreSQL, Redis; RabbitMQ; HTML, CSS, JSON; Bootstrap; REST API; Docker; Linux; Git; AWS; JIRA, Scrum;
+Node.js; JavaScript, TypeScript, ES6, Bash; React, React Native; MongoDB, PostgreSQL, Redis; HTML, CSS, JSON; Bootstrap; REST API; RabbitMQ; MinIO; Vault; Docker; Linux; Git; AWS; JIRA, Scrum;
 
 #### Skills and technologies used over a year ago
 Perl, PHP; jQuery; Angular, Vue.js, Expo.io, Apache Cordova; MySQL, Memchache, SQLite, Couchbase, Elasticsearch; Electron; Fedora, RedHat, CentOS; Nginx, Exim, Apache HTTP server, Dovecot, Bind, KVM, vsftp, Samba, Squid, ffmpeg; Kubernetes; ZeroMQ; Asterisk PBX; svn; Slack/Telegram bots; Kdenlive, Blender, GIMP, Inkscape;
 
 ### Working Experience
+- Jan.2022 - current  : **Senior Software Engineer** @ Kitsoft. Kyiv, UA. Developing and implementing digital technologies for state authorities and commercial organizations.
 - Mar.2020 - Oct.2021 : **Senior Full-Stack Software Engineer, Team Lead** @ SIGNET. Kyiv, UA; San Jose, CA. Creating mixed back-end and front-end solutions for dozens clients. Development of NexusCenter.io
 - Nov.2018 - Feb.2020 : **Senior Node.js developer** @ CEX.IO. Kyiv, UA. Bitcoin processing improvements; Metahash integration; Creating of MRZ-code recognizer; Compliance officers supports (KYC, AML)
-- Sep.2017 - Oct.2018 : **Node.js developer, Senior Software Engineer** @ Innovecs. Kyiv, UA. Developing of RESTful system of data analysis and processing based on microservices architecture.
+- Sep.2017 - Oct.2018 : Node.js developer, Senior Software Engineer @ Innovecs. Kyiv, UA. Developing of RESTful system of data analysis and processing based on microservices architecture.
 - Jun.2013 - Aug.2017 : Middle Node.js developer, Senior Perl Developer @ Argest. group. Kyiv, UA. Creating Railway Ticket Service for Ukrainian state-owned enterprise and Online Bus Ticket Service.
 - Oct.2012 - Jun.2013 : Senior Perl Developer, Configuration manager @ Luxoft. Kyiv, UA. Outsource support and development for one of the largest German global banking and financial services company.
 - Jun.2010 - Sep.2011 : Lead Perl developer @ SP Chizhov. Kyiv, UA. Developing of VOIP billing and VOIP call transfer system, Centralized management system, based on KVM, screen recognition system.
