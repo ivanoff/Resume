@@ -5,14 +5,14 @@ Senior Software Engineer
 - 2@ivanoff.org.ua
 - +38-0916-022-677
 
-### Actual Skills and Technologies
-Node.js; JavaScript, TypeScript, ES6, Bash; React, React Native; MongoDB, PostgreSQL, Redis; HTML, CSS, JSON; Bootstrap; REST API; RabbitMQ; MinIO; Vault; Docker; Linux; Git; AWS; JIRA, Scrum;
+### Current Skills and Technologies
+Node.js; JavaScript, TypeScript, ECMAScript, Bash; React, React Native; MongoDB, PostgreSQL, Redis; RabbitMQ; HTML, CSS, JSON; Bootstrap; REST API; Docker; cypress; Vault; Minio S3; Linux; Git; AWS (EC2, S3, Route 53);
 
-#### Skills and technologies used over a year ago
-Perl, PHP; jQuery; Angular, Vue.js, Expo.io, Apache Cordova; MySQL, Memchache, SQLite, Couchbase, Elasticsearch; Electron; Fedora, RedHat, CentOS; Nginx, Exim, Apache HTTP server, Dovecot, Bind, KVM, vsftp, Samba, Squid, ffmpeg; Kubernetes; ZeroMQ; Asterisk PBX; svn; Slack/Telegram bots; Kdenlive, Blender, GIMP, Inkscape;
+#### Outdated Skills and Technologies
+Perl, PHP; jQuery; Angular, Vue.js, Expo.io, Apache Cordova; MySQL, Memchache, SQLite, Couchbase, Elasticsearch; Electron; Fedora, RedHat, CentOS; Nginx, Exim, Apache HTTP server, Dovecot, Bind, KVM, vsftp, Samba, Squid, ffmpeg; Kubernetes; ZeroMQ; Asterisk PBX; svn; Slack/Telegram bots; Kdenlive, Blender, GIMP, Inkscape; JIRA;
 
 ### Working Experience
-- Jan.2022 - current  : **Senior Software Engineer** @ Kitsoft. Kyiv, UA. Developing and implementing digital technologies for state authorities and commercial organizations.
+- Nov.2021 - Jul.2022  : **Senior Software Engineer** @ Kitsoft. Kyiv, UA. Developing and implementing digital technologies for state authorities and commercial organizations.
 - Mar.2020 - Oct.2021 : **Senior Full-Stack Software Engineer, Team Lead** @ SIGNET. Kyiv, UA; San Jose, CA. Creating mixed back-end and front-end solutions for dozens clients. Development of NexusCenter.io
 - Nov.2018 - Feb.2020 : **Senior Node.js developer** @ CEX.IO. Kyiv, UA. Bitcoin processing improvements; Metahash integration; Creating of MRZ-code recognizer; Compliance officers supports (KYC, AML)
 - Sep.2017 - Oct.2018 : Node.js developer, Senior Software Engineer @ Innovecs. Kyiv, UA. Developing of RESTful system of data analysis and processing based on microservices architecture.
@@ -46,8 +46,10 @@ Perl, PHP; jQuery; Angular, Vue.js, Expo.io, Apache Cordova; MySQL, Memchache, S
 - **Web-sites**: corporates, datings, social networkings, affiliates, personals, blogs and other types;
 
 ### Open-source Projects (the complete list is on github.com/ivanoff)
+- 2019 - 2023 : The-API @ github.com
+- 2023 - 2023 : junta Notification System @ npmjs.com/junta
+- 2021 - 2022 : guzel - remote headless puppetter watcher @ npmjs.com/guzel
 - 2021 - 2021 : Scrumpoker-online Cheater @ github.com
-- 2019 - 2020 : The-API @ github.com
 - 2019 - 2020 : Icons for React Native @ ico.simpleness.org
 - 2019 - 2020 : Get and share colors @ Colors.click
 - 2015 - 2019 : Compare Node.js's images processing modules @ github.com
