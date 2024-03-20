@@ -6,15 +6,16 @@ Senior Software Engineer
 - +38-0916-022-677
 
 ### Current Skills and Technologies
-Node.js; JavaScript, TypeScript, ECMAScript, Bash; React, React Native; MongoDB, PostgreSQL, Redis; RabbitMQ; HTML, CSS, JSON; Bootstrap; REST API; Docker; cypress; Vault; Minio S3; Linux; Git; AWS (EC2, S3, Route 53);
+Node.js; JavaScript, TypeScript, ECMAScript, Bash; React, React Native; NestJS; MongoDB, PostgreSQL, MySQL, Redis; RabbitMQ; HTML, CSS, JSON; REST API, GraphQL; Docker; Bootstrap; cypress; Vault; Minio S3; Linux; Git; AWS (EC2, S3, Route 53);
 
 #### Outdated Skills and Technologies
 Perl, PHP; jQuery; Angular, Vue.js, Expo.io, Apache Cordova; MySQL, Memchache, SQLite, Couchbase, Elasticsearch; Electron; Fedora, RedHat, CentOS; Nginx, Exim, Apache HTTP server, Dovecot, Bind, KVM, vsftp, Samba, Squid, ffmpeg; Kubernetes; ZeroMQ; Asterisk PBX; svn; Slack/Telegram bots; Kdenlive, Blender, GIMP, Inkscape; JIRA;
 
 ### Working Experience
-- Nov.2021 - Jul.2022  : **Senior Software Engineer** @ Kitsoft. Kyiv, UA. Developing and implementing digital technologies for state authorities and commercial organizations.
-- Mar.2020 - Oct.2021 : **Senior Full-Stack Software Engineer, Team Lead** @ SIGNET. Kyiv, UA; San Jose, CA. Creating mixed back-end and front-end solutions for dozens clients. Development of NexusCenter.io
-- Nov.2018 - Feb.2020 : **Senior Node.js developer** @ CEX.IO. Kyiv, UA. Bitcoin processing improvements; Metahash integration; Creating of MRZ-code recognizer; Compliance officers supports (KYC, AML)
+- Jul.2022 - current : **Senior Backend Software Engineer, DevOps, Team Lead** @ Battlepro, Kyiv, UA; Los Angeles, CA. Developed and deployed backend systems for ForgeHub.com and BattlePro.com, incorporating efficient CI/CD pipelines.
+- Nov.2021 - Jul.2022  : **Senior Software Engineer** @ Kitsoft. Kyiv, UA.Developed a configurator service and an antivirus service in collaboration with ESET. Implemented Minio S3 file storage. Contributed to the development of government websites, including Diia, EcoSystem, and Emalyatko.
+- Mar.2020 - Oct.2021 : **Senior Full-Stack Software Engineer, Team Lead** @ SIGNET. Kyiv, UA; San Jose, CA. Created comprehensive back-end and front-end solutions for clients. Played a key role in the development of NexusCenter.
+- Nov.2018 - Feb.2020 : **Senior Node.js developer** @ CEX.IO. Kyiv, UA. Improved Bitcoin processing capabilities. Integrated Metahash. Developed an MRZ code recognizer. Provided support for compliance officers, including KYC and AML.
 - Sep.2017 - Oct.2018 : Node.js developer, Senior Software Engineer @ Innovecs. Kyiv, UA. Developing of RESTful system of data analysis and processing based on microservices architecture.
 - Jun.2013 - Aug.2017 : Middle Node.js developer, Senior Perl Developer @ Argest. group. Kyiv, UA. Creating Railway Ticket Service for Ukrainian state-owned enterprise and Online Bus Ticket Service.
 - Oct.2012 - Jun.2013 : Senior Perl Developer, Configuration manager @ Luxoft. Kyiv, UA. Outsource support and development for one of the largest German global banking and financial services company.
@@ -23,7 +24,10 @@ Perl, PHP; jQuery; Angular, Vue.js, Expo.io, Apache Cordova; MySQL, Memchache, S
 - Oct.2003 - May.2008 : System Administrator, Senior University Teacher @ European University, Sevastopol, UA.
 
 ### Projects and Products From Scratch
-- **Ships.trade**: Use the most comprehensive source of shipbrokers vessels listings on the Internet with ships.trade;
+- **Ships.trade**: A comprehensive source of shipbrokers' vessel listings on the Internet. Easy to find vessel, easy to contact shipbroker.
+- **Twister spinner**: A mobile application for Twister players. Support for over 30 languages, automatic/manual spin delays, voice guidance and dark/light modes.
+- **Get Colors from Camera**: An application that allows users to identify colors by photo or device's camera. Precise color details including names and shade variations. Support up to 20 languages. Share color with your contacts.
+- **Twister Fingers**: Twister game on mobile device. Multilanguage application with voice guidance, automatic/manual spin delays and dark/light modes.
 - **Remembo**: Words-description pairs. Multilingual Android app with public groups, quiz, cloud storage, favourites and dark mode;
 - **Load43**: Find cargo near your trucks, find truck near your cargoes, load for free;
 - **RSS Feeder**: Collecting data from RSS-sources. Giving access to that data by authorization and access controls. Handling overloads.
@@ -46,11 +50,11 @@ Perl, PHP; jQuery; Angular, Vue.js, Expo.io, Apache Cordova; MySQL, Memchache, S
 - **Web-sites**: corporates, datings, social networkings, affiliates, personals, blogs and other types;
 
 ### Open-source Projects (the complete list is on github.com/ivanoff)
-- 2019 - 2023 : The-API @ github.com
+- 2019 - 2024 : The-API @ github.com
+- 2019 - 2024 : Icons for React Native @ ico.simpleness.org
 - 2023 - 2023 : junta Notification System @ npmjs.com/junta
 - 2021 - 2022 : guzel - remote headless puppetter watcher @ npmjs.com/guzel
 - 2021 - 2021 : Scrumpoker-online Cheater @ github.com
-- 2019 - 2020 : Icons for React Native @ ico.simpleness.org
 - 2019 - 2020 : Get and share colors @ Colors.click
 - 2015 - 2019 : Compare Node.js's images processing modules @ github.com
 - 2018 - 2019 : REST-API-Server @ github.com
