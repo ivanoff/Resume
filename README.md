@@ -6,13 +6,13 @@ Senior Software Engineer
 - +38-0916-022-677
 
 ### Current Skills and Technologies
-Node.js; JavaScript, TypeScript, ECMAScript, Bash; React, React Native; NestJS; MongoDB, PostgreSQL, MySQL, Redis; RabbitMQ; HTML, CSS, JSON; REST API, GraphQL; Docker; Bootstrap; cypress; Vault; Minio S3; Linux; Git; AWS (EC2, S3, Route 53);
+Bun, Node.js; JavaScript, TypeScript, ECMAScript, Bash; React, React Native; PostgreSQL, MongoDB, MySQL, Redis; RabbitMQ; HTML, CSS, JSON; REST API; Kubernetes, Docker; Bootstrap; cypress; Vault; Minio S3; Verdaccio; Linux; Git; CI/CD (Git Actions); AWS (EC2, S3, Route 53); GPT, Claude AI;
 
 #### Outdated Skills and Technologies
-Perl, PHP; jQuery; Angular, Vue.js, Expo.io, Apache Cordova; MySQL, Memchache, SQLite, Couchbase, Elasticsearch; Electron; Fedora, RedHat, CentOS; Nginx, Exim, Apache HTTP server, Dovecot, Bind, KVM, vsftp, Samba, Squid, ffmpeg; Kubernetes; ZeroMQ; Asterisk PBX; svn; Slack/Telegram bots; Kdenlive, Blender, GIMP, Inkscape; JIRA;
+Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, SQLite, Couchbase, Elasticsearch; Electron; Fedora, RedHat, CentOS; Nginx, Exim, Apache HTTP server, Dovecot, Bind, KVM, vsftp, Samba, Squid, ffmpeg; GraphQL; ZeroMQ; Asterisk PBX; svn; Slack/Telegram bots; Kdenlive, Blender, GIMP, Inkscape; JIRA;
 
 ### Working Experience
-- Jul.2022 - current : **Senior Backend Software Engineer, DevOps, Team Lead** @ Battlepro, Kyiv, UA; Los Angeles, CA. Developed and deployed backend systems for ForgeHub.com and BattlePro.com, incorporating efficient CI/CD pipelines.
+- Jul.2022 - current : **Lead Backend Software Engineer, DevOps, Team Lead** @ Battlepro, Kyiv, UA; Los Angeles, CA. Designed and implemented scalable architecture for Forgehub.com and BattlePro.com, introduced CI/CD, Kubernetes, optimized AWS infrastructure (95% cost reduction), integrated various APIs and services, significantly improving development efficiency and project performance.
 - Nov.2021 - Jul.2022  : **Senior Software Engineer** @ Kitsoft. Kyiv, UA.Developed a configurator service and an antivirus service in collaboration with ESET. Implemented Minio S3 file storage. Contributed to the development of government websites, including Diia, EcoSystem, and Emalyatko.
 - Mar.2020 - Oct.2021 : **Senior Full-Stack Software Engineer, Team Lead** @ SIGNET. Kyiv, UA; San Jose, CA. Created comprehensive back-end and front-end solutions for clients. Played a key role in the development of NexusCenter.
 - Nov.2018 - Feb.2020 : **Senior Node.js developer** @ CEX.IO. Kyiv, UA. Improved Bitcoin processing capabilities. Integrated Metahash. Developed an MRZ code recognizer. Provided support for compliance officers, including KYC and AML.
@@ -50,6 +50,7 @@ Perl, PHP; jQuery; Angular, Vue.js, Expo.io, Apache Cordova; MySQL, Memchache, S
 - **Web-sites**: corporates, datings, social networkings, affiliates, personals, blogs and other types;
 
 ### Open-source Projects (the complete list is on github.com/ivanoff)
+- 2024 - 2024 : AI-driven @ npmjs.com/ai-driven
 - 2019 - 2024 : The-API @ github.com
 - 2019 - 2024 : Icons for React Native @ ico.simpleness.org
 - 2023 - 2023 : junta Notification System @ npmjs.com/junta
@@ -90,12 +91,13 @@ Cooking, Playing guitar, Photography, Eight-ball, Archery
 
 ### Links and Contacts
 
-- location: Kyiv, Ukraine
-- phone: +38-0916-022-677
-- e-mail: 2@ivanoff.org.ua
-- web-site: http://ivanoff.org.ua
-- date of birth: 02/1980
+- Location: Kyiv, Ukraine
+- Phone: +38-0916-022-677
+- E-mail: 2@ivanoff.org.ua
+- Web-site: http://ivanoff.org.ua
+- Date of birth: 02/1980
 - GitHub: https://github.com/ivanoff
-- npm: https://www.npmjs.com/~ivanoff
-- Linkedin: http://ivanoff.org.ua/linkedin
-- Codingame: http://ivanoff.org.ua/codingame
+- Npm: https://www.npmjs.com/~ivanoff
+- Linkedin: https://ivanoff.org.ua/linkedin
+- Codingame: https://ivanoff.org.ua/codingame
+- YouTube: https://www.youtube.com/@in-hamlet
