@@ -28,6 +28,7 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 - **Twister spinner**: A mobile application for Twister players. Support for over 30 languages, automatic/manual spin delays, voice guidance and dark/light modes.
 - **Get Colors from Camera**: An application that allows users to identify colors by photo or device's camera. Precise color details including names and shade variations. Support up to 20 languages. Share color with your contacts.
 - **Twister Fingers**: Twister game on mobile device. Multilanguage application with voice guidance, automatic/manual spin delays and dark/light modes.
+- **Antivirus Microservice**: a free and fully functional microservice with client for antivirus file checking using ClamAV.
 - **Remembo**: Words-description pairs. Multilingual Android app with public groups, quiz, cloud storage, favourites and dark mode;
 - **Load43**: Find cargo near your trucks, find truck near your cargoes, load for free;
 - **RSS Feeder**: Collecting data from RSS-sources. Giving access to that data by authorization and access controls. Handling overloads.
@@ -50,6 +51,7 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 - **Web-sites**: corporates, datings, social networkings, affiliates, personals, blogs and other types;
 
 ### Open-source Projects (the complete list is on github.com/ivanoff)
+- 2024 - 2024 : Antivirus Microservice @ github.com
 - 2024 - 2024 : AI-driven @ npmjs.com/ai-driven
 - 2019 - 2024 : The-API @ github.com
 - 2019 - 2024 : Icons for React Native @ ico.simpleness.org
