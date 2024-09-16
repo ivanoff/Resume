@@ -24,6 +24,7 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 - Oct.2003 - May.2008 : System Administrator, Senior University Teacher @ European University, Sevastopol, UA.
 
 ### Projects and Products From Scratch
+- **Email Microservice**: microservice for manage SMTP configurations, email templates, and send emails using various SMTP servers and templates.
 - **Antivirus Microservice**: a free and fully functional microservice with client for antivirus file checking using ClamAV.
 - **Ships.trade**: A comprehensive source of shipbrokers' vessel listings on the Internet. Easy to find vessel, easy to contact shipbroker.
 - **Twister spinner**: A mobile application for Twister players. Support for over 30 languages, automatic/manual spin delays, voice guidance and dark/light modes.
@@ -34,6 +35,7 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 - **RSS Feeder**: Collecting data from RSS-sources. Giving access to that data by authorization and access controls. Handling overloads.
 - **Bitcoin Tracking Accounts Activity**: Instant check any bitcoin address history; continuous tracking of new transactions for 2M+ monitored BTC wallets;
 - **Online Bus Ticket Service**, Bus Management Service System, 1K+ daily sales;
+- **TV-Series Downloader**: small utility for downloading TV series from Rezka
 - **Temporary email web-system**: You can send and receive emails with a temporary mailbox;
 - **Railway Ticket Service** for Ukrainian state-owned enterprise;
 - **Icons for React Native**: Use more than 5900 icons in your React Native application with react-native-ico;
@@ -51,6 +53,7 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 - **Web-sites**: corporates, datings, social networkings, affiliates, personals, blogs and other types;
 
 ### Open-source Projects (the complete list is on github.com/ivanoff)
+- 2024 - 2024 : Email Microservice @ github.com
 - 2024 - 2024 : Antivirus Microservice @ antivirus.simpleness.org
 - 2024 - 2024 : AI-driven @ npmjs.com/ai-driven
 - 2019 - 2024 : The-API @ github.com
