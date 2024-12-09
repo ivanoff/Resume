@@ -24,6 +24,7 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 - Oct.2003 - May.2008 : System Administrator, Senior University Teacher @ European University, Sevastopol, UA.
 
 ### Projects and Products From Scratch
+- **Image Recognition Microsevice**: microservice for analyze an image (by using Moondream2) and respond to specific questions about its content.
 - **Email Microservice**: microservice for manage SMTP configurations, email templates, and send emails using various SMTP servers and templates.
 - **Antivirus Microservice**: a free and fully functional microservice with client for antivirus file checking using ClamAV.
 - **Ships.trade**: A comprehensive source of shipbrokers' vessel listings on the Internet. Easy to find vessel, easy to contact shipbroker.
@@ -53,6 +54,7 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 - **Web-sites**: corporates, datings, social networkings, affiliates, personals, blogs and other types;
 
 ### Open-source Projects (the complete list is on github.com/ivanoff)
+- 2024 - 2024 : Image Recognition Microsevice @ github.com
 - 2024 - 2024 : Email Microservice @ github.com
 - 2024 - 2024 : Antivirus Microservice @ antivirus.simpleness.org
 - 2024 - 2024 : AI-driven @ npmjs.com/ai-driven
