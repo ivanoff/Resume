@@ -55,6 +55,12 @@ Work Experience
     Held a teaching position at the university.
 
 The projects and products I have developed from scratch
+  Image Recognition Microsevice: microservice for analyze an image (by using
+    Moondream2) and respond to specific questions about its content.
+  Email Microservice: microservice for manage SMTP configurations, email
+    templates, and send emails using various SMTP servers and templates.
+  Antivirus Microservice: a free and fully functional microservice with client
+    for antivirus file checking using ClamAV.
   Ships.trade: A comprehensive source of shipbrokers' vessel listings on the
     Internet. Easy to find vessel, easy to contact shipbroker.
   Twister spinner: A mobile application for Twister players. Support for over 30
@@ -64,8 +70,6 @@ The projects and products I have developed from scratch
     variations. Support up to 20 languages. Share color with your contacts.
   Twister Fingers: Twister game on mobile device. Multilanguage application with
     voice guidance, automatic/manual spin delays and dark/light modes.
-  Antivirus Microservice: a free and fully functional microservice with client
-    for antivirus file checking using ClamAV.
   Remembo: A multilingual Android application that allows users to create
     word-description pairs, with features such as public groups, quizzes,
     cloud storage, favorites, and dark mode.
@@ -79,6 +83,7 @@ The projects and products I have developed from scratch
   Online Bus Ticket Service: A web-based service for purchasing bus tickets with
     a daily sales volume of over 1,000 tickets.
   Railway Ticket Service for a Ukrainian state-owned enterprise.
+  TV-Series Downloader: small utility for downloading TV series from Rezka.
   Icons for React Native: A collection of over 20,000 icons for use in
     React Native applications.
   Simpleness CMS: a user-friendly and open-source Perl-based content management
@@ -108,7 +113,9 @@ The projects and products I have developed from scratch
     affiliate, blog, social networking, and personal websites.
 
 Open-source Projects
-  2024 - 2024 : Antivirus Microservice @ github.com
+  2024 - 2024 : Image Recognition Microsevice @ github.com
+  2024 - 2024 : Email Microservice @ github.com
+  2024 - 2024 : Antivirus Microservice @ antivirus.simpleness.org
   2024 - 2024 : AI-driven @ npmjs.com/ai-driven
   2019 - 2024 : The-API @ npmjs.com/the-api
   2019 - 2024 : Icons for React Native @ ico.simpleness.org
