@@ -56,6 +56,7 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 ### Open-source Projects (the complete list is on github.com/ivanoff)
 - 2024 - 2024 : AI-scripts @ github.com
 - 2024 - 2024 : Image Recognition Microsevice @ github.com
+- 2024 - 2024 : Music generation Telegram bot @ github.com
 - 2024 - 2024 : Email Microservice @ github.com
 - 2024 - 2024 : Antivirus Microservice @ antivirus.simpleness.org
 - 2024 - 2024 : AI-driven @ npmjs.com/ai-driven
