@@ -12,7 +12,7 @@ Bun, Node.js; JavaScript, TypeScript, ECMAScript, Bash; React, React Native; Pos
 Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, SQLite, Couchbase, Elasticsearch; Electron; Fedora, RedHat, CentOS; Nginx, Exim, Apache HTTP server, Dovecot, Bind, KVM, vsftp, Samba, Squid, ffmpeg; GraphQL; ZeroMQ; Asterisk PBX; svn; Slack/Telegram bots; Kdenlive, Blender, GIMP, Inkscape; JIRA;
 
 ### Working Experience
-- Jul.2022 - current : **Lead Backend Software Engineer, DevOps, Team Lead** @ Battlepro, Kyiv, UA; Los Angeles, CA. Designed and implemented scalable architecture for Forgehub.com and BattlePro.com, introduced CI/CD, Kubernetes, optimized AWS infrastructure (95% cost reduction), integrated various APIs and services, significantly improving development efficiency and project performance.
+- Jul.2022 - current : **Lead Backend Software Engineer, DevOps, Team Lead** @ Battlepro, Kyiv, UA; Los Angeles, CA. Designed and implemented scalable architecture for Forgehub.com and BattlePro.com, introduced CI/CD, Kubernetes, optimized AWS infrastructure (95% cost reduction), integrated various APIs and services, significantly improving development efficiency and project performance, installed and fine-tuned an AI bot to provide development team support.
 - Nov.2021 - Jul.2022  : **Senior Software Engineer** @ Kitsoft. Kyiv, UA.Developed a configurator service and an antivirus service in collaboration with ESET. Implemented Minio S3 file storage. Contributed to the development of government websites, including Diia, EcoSystem, and Emalyatko.
 - Mar.2020 - Oct.2021 : **Senior Full-Stack Software Engineer, Team Lead** @ SIGNET. Kyiv, UA; San Jose, CA. Created comprehensive back-end and front-end solutions for clients. Played a key role in the development of NexusCenter.
 - Nov.2018 - Feb.2020 : **Senior Node.js developer** @ CEX.IO. Kyiv, UA. Improved Bitcoin processing capabilities. Integrated Metahash. Developed an MRZ code recognizer. Provided support for compliance officers, including KYC and AML.
@@ -54,6 +54,7 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 - **Web-sites**: corporates, datings, social networkings, affiliates, personals, blogs and other types;
 
 ### Open-source Projects (the complete list is on github.com/ivanoff)
+- 2024 - 2024 : AI-scripts @ github.com
 - 2024 - 2024 : Image Recognition Microsevice @ github.com
 - 2024 - 2024 : Email Microservice @ github.com
 - 2024 - 2024 : Antivirus Microservice @ antivirus.simpleness.org
