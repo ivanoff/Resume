@@ -24,6 +24,7 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 - Oct.2003 - May.2008 : System Administrator, Senior University Teacher @ European University, Sevastopol, UA.
 
 ### Projects and Products From Scratch
+- **AI Server**: A TypeScript microservice that provides an API compatible with OpenAI and Claude for working with local LLM models through node-llama-cpp.
 - **Image Recognition Microsevice**: microservice for analyze an image (by using Moondream2) and respond to specific questions about its content.
 - **Email Microservice**: microservice for manage SMTP configurations, email templates, and send emails using various SMTP servers and templates.
 - **Antivirus Microservice**: a free and fully functional microservice with client for antivirus file checking using ClamAV.
@@ -54,6 +55,8 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 - **Web-sites**: corporates, datings, social networkings, affiliates, personals, blogs and other types;
 
 ### Open-source Projects (the complete list is on github.com/ivanoff)
+- 2025 - 2025 : AI Server @ github.com
+- 2025 - 2025 : Trading Bot for Bitcoin on Binance @ github.com
 - 2024 - 2024 : AI-scripts @ github.com
 - 2024 - 2024 : Image Recognition Microsevice @ github.com
 - 2024 - 2024 : Music generation Telegram bot @ github.com
