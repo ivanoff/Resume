@@ -119,6 +119,7 @@ The projects and products I have developed from scratch
     dating, affiliate, blog, social networking, and personal sites.
 
 Open-source Projects
+  2019 - 2025 : The-API @ npmjs.com/the-api
   2025 - 2025 : AI Server @ github.com
   2025 - 2025 : Trading Bot for Bitcoin on Binance @ github.com
   2024 - 2024 : AI scripts @ github.com
@@ -127,7 +128,6 @@ Open-source Projects
   2024 - 2024 : Email Microservice @ github.com
   2024 - 2024 : Antivirus Microservice @ antivirus.simpleness.org
   2024 - 2024 : AI-driven @ npmjs.com/ai-driven
-  2019 - 2024 : The-API @ npmjs.com/the-api
   2019 - 2024 : Icons for React Native @ ico.simpleness.org
   2023 - 2023 : Junta Notification System @ npmjs.com/junta
   2021 - 2022 : Guzel - Remote Headless Puppeteer Watcher @ npmjs.com/guzel

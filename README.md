@@ -13,34 +13,34 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 
 ### Working Experience
 
-- **Jul.2022 - current : Lead Backend Software Engineer, DevOps, Team Lead @ Battlepro, Kyiv, UA; Los Angeles, CA.**  
+- Jul.2022 - current : **Lead Backend Software Engineer, DevOps, Team Lead @ Battlepro**, Kyiv, UA; Los Angeles, CA.
   Designed and implemented scalable architectures for Forgehub.com and BattlePro.com. Introduced CI/CD pipelines and Kubernetes, optimized AWS infrastructure resulting in a 95% cost reduction. Integrated various APIs and services, significantly enhancing development efficiency and project performance. Installed and fine-tuned an AI bot to support the development team.
 
-- **Nov.2021 - Jul.2022 : Senior Software Engineer @ Kitsoft. Kyiv, UA.**  
+- Nov.2021 - Jul.2022 : **Senior Software Engineer @ Kitsoft**. Kyiv, UA.
   Developed a configurator service and an antivirus service in collaboration with ESET. Implemented Minio S3 file storage. Contributed to the development of government websites, including Diia, EcoSystem, and Emalyatko.
 
-- **Mar.2020 - Oct.2021 : Senior Full-Stack Software Engineer, Team Lead @ SIGNET. Kyiv, UA; San Jose, CA.**  
+- Mar.2020 - Oct.2021 : **Senior Full-Stack Software Engineer, Team Lead @ SIGNET**. Kyiv, UA; San Jose, CA.
   Created comprehensive back-end and front-end solutions for clients. Played a key role in the development of NexusCenter.
 
-- **Nov.2018 - Feb.2020 : Senior Node.js Developer @ CEX.IO. Kyiv, UA.**  
+- Nov.2018 - Feb.2020 : **Senior Node.js Developer @ CEX.IO**. Kyiv, UA.
   Improved Bitcoin processing capabilities. Integrated Metahash. Developed an MRZ code recognizer. Provided support for compliance officers, including KYC and AML processes.
 
-- **Sep.2017 - Oct.2018 : Node.js Developer, Senior Software Engineer @ Innovecs. Kyiv, UA.**  
+- Sep.2017 - Oct.2018 : **Node.js Developer, Senior Software Engineer @ Innovecs**. Kyiv, UA.
   Developed a RESTful system for data analysis and processing based on a microservices architecture.
 
-- **Jun.2013 - Aug.2017 : Middle Node.js Developer, Senior Perl Developer @ Argest Group. Kyiv, UA.**  
+- Jun.2013 - Aug.2017 : **Middle Node.js Developer, Senior Perl Developer @ Argest Group**. Kyiv, UA.
   Developed a Railway Ticket Service for a Ukrainian state-owned enterprise and an Online Bus Ticket Service.
 
-- **Oct.2012 - Jun.2013 : Senior Perl Developer, Configuration Manager @ Luxoft. Kyiv, UA.**  
+- Oct.2012 - Jun.2013 : **Senior Perl Developer, Configuration Manager @ Luxoft**. Kyiv, UA.
   Provided outsourced support and development services for a major German global banking and financial services company.
 
-- **Jun.2010 - Sep.2011 : Lead Perl Developer @ SP Chizhov. Kyiv, UA.**  
+- Jun.2010 - Sep.2011 : **Lead Perl Developer @ SP Chizhov**. Kyiv, UA.
   Developed a VOIP billing system, a VOIP call transfer system, and a centralized management system based on KVM. Also created a screen recognition system.
 
-- **Jun.2008 - May.2010 : Junior Perl Developer, Middle PHP Developer @ Information Holding 1559. Kyiv, UA.**  
+- Jun.2008 - May.2010 : **Junior Perl Developer, Middle PHP Developer @ Information Holding 1559**. Kyiv, UA.
   Developed an Automatic Call Distribution system for contact centers, an outgoing call system, and other telephony services: Interactive Voice Response (IVR), outbound calling, alarm and reminder services, weather forecast information service.
 
-- **Oct.2003 - May.2008 : System Administrator, Senior University Teacher @ European University, Sevastopol, UA.**
+- Oct.2003 - May.2008 : **System Administrator, Senior University Teacher @ European University**, Sevastopol, UA.
 
 ### Projects and Products From Scratch
 - **AI Server**: A TypeScript microservice providing an API compatible with OpenAI and Claude for working with local LLM models through node-llama-cpp.
@@ -74,37 +74,37 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 - **Websites**: Developed corporate sites, dating platforms, social networks, affiliate pages, personal sites, blogs, and more.
 
 ### Open-source Projects (Complete List on github.com/ivanoff)
-- **2025 - 2025**: AI Server @ github.com
-- **2025 - 2025**: Trading Bot for Bitcoin on Binance @ github.com
-- **2024 - 2024**: AI-scripts @ github.com
-- **2024 - 2024**: Image Recognition Microservice @ github.com
-- **2024 - 2024**: Music Generation Telegram Bot @ github.com
-- **2024 - 2024**: Email Microservice @ github.com
-- **2024 - 2024**: Antivirus Microservice @ antivirus.simpleness.org
-- **2024 - 2024**: AI-driven @ npmjs.com/ai-driven
-- **2019 - 2024**: The-API @ github.com
-- **2019 - 2024**: Icons for React Native @ ico.simpleness.org
-- **2023 - 2023**: Junta Notification System @ npmjs.com/junta
-- **2021 - 2022**: Guzel - Remote Headless Puppeteer Watcher @ npmjs.com/guzel
-- **2021 - 2021**: Scrumpoker-online Cheater @ github.com
-- **2019 - 2020**: Get and Share Colors @ Colors.click
-- **2015 - 2019**: Compare Node.js’s Image Processing Modules @ github.com
-- **2018 - 2019**: REST-API-Server @ github.com
-- **2018 - 2019**: API-I @ github.com
-- **2016 - 2017**: create-REST-API @ github.com
-- **2017 - 2017**: create-RAML @ github.com
-- **2016 - 2017**: 2valid.js Data Validator @ github.com
-- **2015 - 2016**: Amazon S3 Gate API @ s3.simpleness.org
-- **2011 - 2016**: Simpleness CMS @ cms.simpleness.org
-- **2013 - 2014**: Simpleness Parental Control @ parents.simpleness.org
+- 2019 - 2025: **The-API** @ github.com
+- 2025 - 2025: **AI Server** @ github.com
+- 2025 - 2025: **Trading Bot** for Bitcoin on Binance @ github.com
+- 2024 - 2024: **AI-scripts** @ github.com
+- 2024 - 2024: **Image Recognition Microservice** @ github.com
+- 2024 - 2024: **Music Generation Telegram Bot** @ github.com
+- 2024 - 2024: **Email Microservice** @ github.com
+- 2024 - 2024: **Antivirus Microservice** @ antivirus.simpleness.org
+- 2024 - 2024: **AI-driven** @ npmjs.com/ai-driven
+- 2019 - 2024: **Icons for React Native** @ ico.simpleness.org
+- 2023 - 2023: **Junta Notification System** @ npmjs.com/junta
+- 2021 - 2022: **Guzel** - Remote Headless Puppeteer Watcher @ npmjs.com/guzel
+- 2021 - 2021: **Scrumpoker-online Cheater** @ github.com
+- 2019 - 2020: **Get and Share Colors** @ Colors.click
+- 2015 - 2019: **Compare Node.js’s Image Processing Modules** @ github.com
+- 2018 - 2019: **REST-API-Server** @ github.com
+- 2018 - 2019: **API-I** @ github.com
+- 2016 - 2017: **create-REST-API** @ github.com
+- 2017 - 2017: **create-RAML** @ github.com
+- 2016 - 2017: **2valid.js Data Validator** @ github.com
+- 2015 - 2016: **Amazon S3 Gate API** @ s3.simpleness.org
+- 2011 - 2016: **Simpleness CMS** @ cms.simpleness.org
+- 2013 - 2014: **Simpleness Parental Control** @ parents.simpleness.org
 - **NPM Modules**: consecutive, the-api, images-manipulation-performance, api-i, create-rest-api, 2conf, guess-color, express2md, 2pid, 2log, time-checker, create-raml, react-native-ico
 
 ### Education
-- **1997 - 2002**: BEng in Computer Science @ Sevastopol National Technical University, Ukraine. Specialization in Automation and Computer Engineering.
+- 1997 - 2002: **BEng in Computer Science @ Sevastopol National Technical University, Ukraine**. Specialization in Automation and Computer Engineering.
 
 ### Language Skills
 - **English**: Intermediate
-- **Ukrainian**: Advanced
+- **Ukrainian**: Native
 - **Russian**: Native
 
 ### Other Information
@@ -115,8 +115,8 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 - Cooking, playing guitar, photography, eight-ball, archery
 
 #### Sponsor Experience
-- **2009 - 2017**: Jourfixe Classical Music @ Bulgakov House, Kyiv, Ukraine
-- **2012 - 2016**: Spendiarov’s International Composers Competition @ Yalta, Ukraine
+- 2009 - 2017: Jourfixe Classical Music @ Bulgakov House, Kyiv, Ukraine
+- 2012 - 2016: Spendiarov’s International Composers Competition @ Yalta, Ukraine
 
 ### Links and Contacts
 - **Location**: Kyiv, Ukraine
