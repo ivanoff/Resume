@@ -45,6 +45,7 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 ### Projects and Products From Scratch
 - **AI Server**: A TypeScript microservice providing an API compatible with OpenAI and Claude for working with local LLM models through node-llama-cpp.
 - **Image Recognition Microservice**: A microservice that analyzes images using Moondream2 and responds to specific questions about their content.
+- **Search Microservice**: A microservice that provides a RESTful API for managing and searching text data, with built-in support for synonyms. It features endpoints for adding, updating, deleting, and searching text data.
 - **Email Microservice**: A microservice for managing SMTP configurations, email templates, and sending emails using various SMTP servers and templates.
 - **Antivirus Microservice**: A free, fully functional microservice with a client for antivirus file checking using ClamAV.
 - **Ships.trade**: A comprehensive online source of shipbrokers’ vessel listings, making it easy to find vessels and contact shipbrokers.
@@ -80,6 +81,7 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 - 2024 - 2024: **AI-scripts** @ github.com
 - 2024 - 2024: **Image Recognition Microservice** @ github.com
 - 2024 - 2024: **Music Generation Telegram Bot** @ github.com
+- 2024 - 2024: **Search Microservice** @ github.com
 - 2024 - 2024: **Email Microservice** @ github.com
 - 2024 - 2024: **Antivirus Microservice** @ antivirus.simpleness.org
 - 2024 - 2024: **AI-driven** @ npmjs.com/ai-driven
