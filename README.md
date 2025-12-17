@@ -6,7 +6,7 @@
 - +38-0916-022-677  
 
 ### Current Skills and Technologies
-Bun, Node.js; JavaScript, TypeScript, ECMAScript, Bash, Python; React, React Native; PostgreSQL, MongoDB, MySQL, Redis; RabbitMQ; HTML, CSS, JSON; REST API; Kubernetes, Docker; Bootstrap; cypress; Vault; Minio S3; Verdaccio; Linux; Git; CI/CD (Git Actions); AWS (EC2, S3, Route 53); GPT, Claude AI, Hugging Face: fine-tuning models, text generation and analysis, music and sound generation, image generation and recognition;
+Bun, Node.js; JavaScript, TypeScript, ECMAScript, Bash, Python; React, React Native; PostgreSQL, MongoDB, MySQL, Redis; RabbitMQ; HTML, CSS, JSON; REST API; Kubernetes, Docker; Bootstrap; cypress; Vault; Minio S3; Verdaccio; Linux; Git; CI/CD (Git Actions); AWS (EC2, S3, Route 53); GPT, Claude AI, Hugging Face: fine-tuning models, text generation and analysis, music and sound generation, image generation and recognition; Roblox Studio
 
 #### Outdated Skills and Technologies
 Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, SQLite, Couchbase, Elasticsearch; Electron; Fedora, RedHat, CentOS; Nginx, Exim, Apache HTTP server, Dovecot, Bind, KVM, vsftp, Samba, Squid, ffmpeg; GraphQL; ZeroMQ; Asterisk PBX; svn; Slack/Telegram bots; Kdenlive, Blender, GIMP, Inkscape; JIRA;
@@ -43,6 +43,7 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 - Oct.2003 - May.2008 : **System Administrator, Senior University Teacher @ European University**, Sevastopol, UA.
 
 ### Projects and Products From Scratch
+- **Lava! Lava! Lava!**: Roblox game. Run across floating platforms, jump, sprint, and outplay the environment to reach the final platform. Play solo or race against friends.
 - **AI Server**: A TypeScript microservice providing an API compatible with OpenAI and Claude for working with local LLM models through node-llama-cpp.
 - **Image Recognition Microservice**: A microservice that analyzes images using Moondream2 and responds to specific questions about their content.
 - **Search Microservice**: A microservice that provides a RESTful API for managing and searching text data, with built-in support for synonyms. It features endpoints for adding, updating, deleting, and searching text data.
