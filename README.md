@@ -6,7 +6,7 @@
 - +38-0916-022-677  
 
 ### Current Skills and Technologies
-Bun, Node.js; JavaScript, TypeScript, ECMAScript, Bash, Python; React, React Native; PostgreSQL, MongoDB, MySQL, Redis; RabbitMQ; HTML, CSS, JSON; REST API; Kubernetes, Docker; Bootstrap; cypress; Vault; Minio S3; Verdaccio; Linux; Git; CI/CD (Git Actions); AWS (EC2, S3, Route 53); GPT, Claude AI, Hugging Face: fine-tuning models, text generation and analysis, music and sound generation, image generation and recognition; Roblox Studio
+GPT, Claude, Gemini; Hugging Face; RAG (Qdrant + Gemini), LLM fine-tuning, text/image/audio generation and analysis; Bun, Node.js; JavaScript, TypeScript, ECMAScript, Bash, Python; React, React Native; PostgreSQL, MongoDB, MySQL, Redis; RabbitMQ; HTML, CSS, JSON; REST API; Kubernetes, Docker; Bootstrap; cypress; Vault; Minio S3; Verdaccio; Linux; Git; CI/CD (Git Actions); AWS (EC2, S3, Route 53); Roblox Studio
 
 #### Outdated Skills and Technologies
 Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, SQLite, Couchbase, Elasticsearch; Electron; Fedora, RedHat, CentOS; Nginx, Exim, Apache HTTP server, Dovecot, Bind, KVM, vsftp, Samba, Squid, ffmpeg; GraphQL; ZeroMQ; Asterisk PBX; svn; Slack/Telegram bots; Kdenlive, Blender, GIMP, Inkscape; JIRA;
