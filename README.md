@@ -13,8 +13,8 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 
 ### Working Experience
 
-- Jul.2022 - current : **Lead Backend Software Engineer, DevOps, Team Lead @ Battlepro**, Kyiv, UA; Los Angeles, CA.
-  Designed and implemented scalable architectures for Forgehub.com and BattlePro.com. Introduced CI/CD pipelines and Kubernetes, optimized AWS infrastructure resulting in a 95% cost reduction. Integrated various APIs and services, significantly enhancing development efficiency and project performance. Installed and fine-tuned an AI bot to support the development team.
+- Jul.2022 - current : **Principal Engineer & Platform Architect**, Kyiv, UA; Los Angeles, CA.
+  Designed and implemented scalable architectures from scratch for Forgehub.com and BattlePro.com. Introduced AI-powered automation (RAG search, ClickUp → GitHub auto-fixes). Established internal developer platform (CI/CD, Kubernetes, private npm registry, release automation). Reduced AWS costs by 95% through infrastructure optimization. Integrated various APIs and services, significantly enhancing development efficiency and project performance. Installed and fine-tuned an AI bot to support the development team.
 
 - Nov.2021 - Jul.2022 : **Senior Software Engineer @ Kitsoft**. Kyiv, UA.
   Developed a configurator service and an antivirus service in collaboration with ESET. Implemented Minio S3 file storage. Contributed to the development of government websites, including Diia, EcoSystem, and Emalyatko.
@@ -101,6 +101,7 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 - 2011 - 2016: **Simpleness CMS** @ cms.simpleness.org
 - 2013 - 2014: **Simpleness Parental Control** @ parents.simpleness.org
 - **NPM Modules**: consecutive, the-api, images-manipulation-performance, api-i, create-rest-api, 2conf, guess-color, express2md, 2pid, 2log, time-checker, create-raml, react-native-ico
+- I've contributed to open-source projects, including node-cron and @koa/router
 
 ### Education
 - 1997 - 2002: **BEng in Computer Science @ Sevastopol National Technical University, Ukraine**. Specialization in Automation and Computer Engineering.
