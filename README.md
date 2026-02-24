@@ -34,7 +34,7 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 - Oct.2012 - Jun.2013 : **Senior Perl Developer, Configuration Manager @ Luxoft**. Kyiv, UA.
   Provided outsourced support and development services for a major German global banking and financial services company.
 
-- Jun.2010 - Sep.2011 : **Lead Perl Developer @ SP Chizhov**. Kyiv, UA.
+- Jun.2010 - Sep.2012 : **Lead Perl Developer @ SP Chizhov**. Kyiv, UA.
   Developed a VOIP billing system, a VOIP call transfer system, and a centralized management system based on KVM. Also created a screen recognition system.
 
 - Jun.2008 - May.2010 : **Junior Perl Developer, Middle PHP Developer @ Information Holding 1559**. Kyiv, UA.
