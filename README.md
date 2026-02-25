@@ -76,6 +76,8 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 - **Websites**: Developed corporate sites, dating platforms, social networks, affiliate pages, personal sites, blogs, and more.
 
 ### Open-source Projects (Complete List on github.com/ivanoff)
+- 2010 - 2026: **GitHub**: https://github.com/ivanoff
+- 2015 - 2025: **NPM Modules**: https://www.npmjs.com/~ivanoff
 - 2019 - 2025: **The-API** @ github.com
 - 2025 - 2025: **AI Server** @ github.com
 - 2025 - 2025: **Trading Bot** for Bitcoin on Binance @ github.com
@@ -100,7 +102,6 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 - 2015 - 2016: **Amazon S3 Gate API** @ s3.simpleness.org
 - 2011 - 2016: **Simpleness CMS** @ cms.simpleness.org
 - 2013 - 2014: **Simpleness Parental Control** @ parents.simpleness.org
-- **NPM Modules**: consecutive, the-api, images-manipulation-performance, api-i, create-rest-api, 2conf, guess-color, express2md, 2pid, 2log, time-checker, create-raml, react-native-ico
 - I've contributed to open-source projects, including node-cron and @koa/router
 
 ### Education
