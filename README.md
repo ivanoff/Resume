@@ -13,7 +13,7 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 
 ### Working Experience
 
-- Jul.2022 - current : **Principal Engineer & Platform Architect**, Kyiv, UA; Los Angeles, CA.
+- Jul.2022 - Feb.2026 : **Principal Engineer & Platform Architect**, Kyiv, UA; Los Angeles, CA.
   Designed and implemented scalable architectures from scratch for Forgehub.com and BattlePro.com. Introduced AI-powered automation (RAG search, ClickUp → GitHub auto-fixes). Established internal developer platform (CI/CD, Kubernetes, private npm registry, release automation). Reduced AWS costs by 95% through infrastructure optimization. Integrated various APIs and services, significantly enhancing development efficiency and project performance. Installed and fine-tuned an AI bot to support the development team.
 
 - Nov.2021 - Jul.2022 : **Senior Software Engineer @ Kitsoft**. Kyiv, UA.
