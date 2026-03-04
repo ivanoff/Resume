@@ -1,6 +1,6 @@
 ## Dimitry Ivanov
 
-**Senior Software Engineer**
+**Principal Engineer & Founder**
 
 - 2@ivanoff.org.ua  
 - +38-0916-022-677  
@@ -12,6 +12,8 @@ GPT, Claude, Gemini; Hugging Face; RAG (Qdrant + Gemini), LLM fine-tuning, text/
 Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, SQLite, Couchbase, Elasticsearch; Electron; Fedora, RedHat, CentOS; Nginx, Exim, Apache HTTP server, Dovecot, Bind, KVM, vsftp, Samba, Squid, ffmpeg; GraphQL; ZeroMQ; Asterisk PBX; svn; Slack/Telegram bots; Kdenlive, Blender, GIMP, Inkscape; JIRA;
 
 ### Working Experience
+
+- Mar.2026 - current : **Founder & CTO** @ Ships.trade, Kyiv, UA. Built and launched a vessel listings platform. Supports 42 languages. Reached 3K+ daily visitors.
 
 - Jul.2022 - Feb.2026 : **Principal Engineer & Platform Architect**, Kyiv, UA; Los Angeles, CA.
   Designed and implemented scalable architectures from scratch for Forgehub.com and BattlePro.com. Introduced AI-powered automation (RAG search, ClickUp → GitHub auto-fixes). Established internal developer platform (CI/CD, Kubernetes, private npm registry, release automation). Reduced AWS costs by 95% through infrastructure optimization. Integrated various APIs and services, significantly enhancing development efficiency and project performance. Installed and fine-tuned an AI bot to support the development team.
@@ -77,7 +79,7 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 
 ### Open-source Projects (Complete List on github.com/ivanoff)
 - 2010 - 2026: **GitHub**: https://github.com/ivanoff
-- 2015 - 2025: **NPM Modules**: https://www.npmjs.com/~ivanoff
+- 2015 - 2026: **NPM Modules**: https://www.npmjs.com/~ivanoff
 - 2019 - 2025: **The-API** @ github.com
 - 2025 - 2025: **AI Server** @ github.com
 - 2025 - 2025: **Trading Bot** for Bitcoin on Binance @ github.com
@@ -127,6 +129,7 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 - **Location**: Kyiv, Ukraine
 - **Phone**: +38-0916-022-677
 - **Email**: 2@ivanoff.org.ua
+- **Telegram**: @ivanoff_org_ua
 - **Website**: http://ivanoff.org.ua
 - **Date of Birth**: 02/1980
 - **GitHub**: https://github.com/ivanoff
@@ -134,3 +137,4 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 - **LinkedIn**: https://ivanoff.org.ua/linkedin
 - **CodinGame**: https://ivanoff.org.ua/codingame
 - **YouTube**: https://www.youtube.com/@in-hamlet
+- **Telegram**: https://t.me/programmist_v_sele
