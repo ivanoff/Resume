@@ -44,6 +44,8 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 
 - Oct.2003 - May.2008 : **System Administrator, Senior University Teacher @ European University**, Sevastopol, UA.
 
+- Jan.2000 - May.2008 : **Freelance Web Developer**, Sevastopol, UA. Designed and developed diverse web solutions, including corporate websites, dating platforms, social networks, and affiliate-driven projects.
+
 ### Projects and Products From Scratch
 - **Lava! Lava! Lava!**: Roblox game. Run across floating platforms, jump, sprint, and outplay the environment to reach the final platform. Play solo or race against friends.
 - **AI Server**: A TypeScript microservice providing an API compatible with OpenAI and Claude for working with local LLM models through node-llama-cpp.
@@ -75,7 +77,6 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 - **Outgoing Call System**: Serves over 1 million subscribers.
 - **Interactive Voice Response (IVR) System**: Provides automated phone interactions.
 - **Phone Services**: Includes Weather Forecast by Phone, Alarm Clock Incoming Call, Automatic Texting System, Current Time by Phone, and Finance Informator Service (currency exchange rates, precious metal values).
-- **Websites**: Developed corporate sites, dating platforms, social networks, affiliate pages, personal sites, blogs, and more.
 
 ### Open-source Projects (Complete List on github.com/ivanoff)
 - 2010 - 2026: **GitHub**: https://github.com/ivanoff
