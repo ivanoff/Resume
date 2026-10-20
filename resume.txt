@@ -7,7 +7,7 @@ Telegram: @ivanoff_org_ua          Codingame: https://ivanoff.org.ua/codingame
 Telegram: t.me/programmist_v_sele  YouTube:   https://www.youtube.com/@in-hamlet
 
 Current Skills and Technologies
-  GPT, Claude, Gemini; Hugging Face; RAG (Qdrant + Gemini), LLM fine-tuning,
+  Codex; GPT, Claude, Gemini; Hugging Face; RAG (Qdrant + Gemini); Fine-tuning,
   text/image/audio generation and analysis; Bun, Node.js; JavaScript, TypeScript,
   ECMAScript, Bash, Python; React, React Native; PostgreSQL, MongoDB, MySQL,
   Redis; RabbitMQ; HTML, CSS, JSON; REST API; Kubernetes, Docker; Bootstrap;
@@ -22,8 +22,10 @@ Previously Used Technologies (Also Worked With)
   Blender, GIMP, Inkscape; JIRA;
 
 Work Experience
-  Mar.2026 - current : Founder & CTO @ Ships.trade, Kyiv, UA. Built and launched
-    a vessel listings platform. Supports 42 languages. Reached 3K+ daily visitors.
+  Mar.2026 - current : Founder & CTO @ Ships.trade, Kyiv, UA. Built and launched a
+    multilingual maritime marketplace for buying, selling, and chartering vessels.
+    Developed the web platform and backend services, and shaped the product
+    experience. Supports 42 languages and attracts 3K+ daily visitors.
   Jul.2022 - Feb.2026 : Principal Engineer & Platform Architect @ Battlepro, Kyiv,
     UA; Los Angeles, CA. Designed and implemented scalable architectures from
     scratch for Forgehub.com and BattlePro.com. Introduced AI-powered automation
@@ -68,6 +70,8 @@ Work Experience
     platforms, social networks, and affiliate-driven projects.
 
 The projects and products I have developed from scratch
+  ApiForSearch.com: A REST API for document search with typo tolerance, filters,
+    sorting, and variants. Can hide document data and return only IDs.
   Lava! Lava! Lava!: Roblox game. Run across floating platforms, jump, sprint,
     and outplay the environment to reach the final platform. Play solo or race
     against friends.
@@ -130,8 +134,8 @@ The projects and products I have developed from scratch
   Bots: Developed bots for Slack and Telegram messengers.
 
 Open-source Projects
-  2010 - 2026 : GitHub: https://github.com/ivanoff
-  2015 - 2025 : NPM Modules: https://www.npmjs.com/~ivanoff
+  2019 - 2026 : The-API @ npmjs.com/the-api
+  2023 - 2026 : Junta Notification System @ npmjs.com/junta
   2025 - 2025 : AI Server @ github.com
   2025 - 2025 : Trading Bot for Bitcoin on Binance @ github.com
   2024 - 2024 : AI scripts @ github.com
@@ -141,9 +145,7 @@ Open-source Projects
   2024 - 2024 : Email Microservice @ github.com
   2024 - 2024 : Antivirus Microservice @ antivirus.simpleness.org
   2024 - 2024 : AI-driven @ npmjs.com/ai-driven
-  2019 - 2024 : The-API @ npmjs.com/the-api
   2019 - 2024 : Icons for React Native @ ico.simpleness.org
-  2023 - 2023 : Junta Notification System @ npmjs.com/junta
   2021 - 2022 : Guzel - Remote Headless Puppeteer Watcher @ npmjs.com/guzel
   2021 - 2021 : Scrumpoker-online Cheater @ github.com
   2019 - 2020 : Get and Share Colors @ Colors.click
