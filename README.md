@@ -6,14 +6,14 @@
 - +38-0916-022-677  
 
 ### Current Skills and Technologies
-GPT, Claude, Gemini; Hugging Face; RAG (Qdrant + Gemini), LLM fine-tuning, text/image/audio generation and analysis; Bun, Node.js; JavaScript, TypeScript, ECMAScript, Bash, Python; React, React Native; PostgreSQL, MongoDB, MySQL, Redis; RabbitMQ; HTML, CSS, JSON; REST API; Kubernetes, Docker; Bootstrap; cypress; Vault; Minio S3; Verdaccio; Linux; Git; CI/CD (Git Actions); AWS (EC2, S3, Route 53); Roblox Studio
+Codex; GPT, Claude, Gemini; Hugging Face; RAG (Qdrant + Gemini); Fine-tuning, text/image/audio generation and analysis; Bun, Node.js; JavaScript, TypeScript, ECMAScript, Bash, Python; React, React Native; PostgreSQL, MongoDB, MySQL, Redis; RabbitMQ; HTML, CSS, JSON; REST API; Kubernetes, Docker; Bootstrap; cypress; Vault; Minio S3; Verdaccio; Linux; Git; CI/CD (Git Actions); AWS (EC2, S3, Route 53); Roblox Studio
 
 #### Outdated Skills and Technologies
 Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, SQLite, Couchbase, Elasticsearch; Electron; Fedora, RedHat, CentOS; Nginx, Exim, Apache HTTP server, Dovecot, Bind, KVM, vsftp, Samba, Squid, ffmpeg; GraphQL; ZeroMQ; Asterisk PBX; svn; Slack/Telegram bots; Kdenlive, Blender, GIMP, Inkscape; JIRA;
 
 ### Working Experience
 
-- Mar.2026 - current : **Founder & CTO** @ Ships.trade, Kyiv, UA. Built and launched a vessel listings platform. Supports 42 languages. Reached 3K+ daily visitors.
+- Mar.2026 - current : **Founder & CTO** @ Ships.trade, Kyiv, UA. Built and launched a multilingual maritime marketplace for buying, selling, and chartering vessels. Developed the web platform and backend services, and shaped the product experience. Supports 42 languages and attracts 3K+ daily visitors.
 
 - Jul.2022 - Feb.2026 : **Principal Engineer & Platform Architect**, Kyiv, UA; Los Angeles, CA.
   Designed and implemented scalable architectures from scratch for Forgehub.com and BattlePro.com. Introduced AI-powered automation (RAG search, ClickUp → GitHub auto-fixes). Established internal developer platform (CI/CD, Kubernetes, private npm registry, release automation). Reduced AWS costs by 95% through infrastructure optimization. Integrated various APIs and services, significantly enhancing development efficiency and project performance. Installed and fine-tuned an AI bot to support the development team.
@@ -47,6 +47,7 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 - Jan.2000 - May.2008 : **Freelance Web Developer**, Sevastopol, UA. Designed and developed diverse web solutions, including corporate websites, dating platforms, social networks, and affiliate-driven projects.
 
 ### Projects and Products From Scratch
+- **ApiForSearch.com**: A REST API for document search with typo tolerance, filters, sorting, and variants. Can hide document data and return only IDs.
 - **Lava! Lava! Lava!**: Roblox game. Run across floating platforms, jump, sprint, and outplay the environment to reach the final platform. Play solo or race against friends.
 - **AI Server**: A TypeScript microservice providing an API compatible with OpenAI and Claude for working with local LLM models through node-llama-cpp.
 - **Image Recognition Microservice**: A microservice that analyzes images using Moondream2 and responds to specific questions about their content.
@@ -79,8 +80,6 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 - **Phone Services**: Includes Weather Forecast by Phone, Alarm Clock Incoming Call, Automatic Texting System, Current Time by Phone, and Finance Informator Service (currency exchange rates, precious metal values).
 
 ### Open-source Projects (Complete List on github.com/ivanoff)
-- 2010 - 2026: **GitHub**: https://github.com/ivanoff
-- 2015 - 2026: **NPM Modules**: https://www.npmjs.com/~ivanoff
 - 2019 - 2025: **The-API** @ github.com
 - 2025 - 2025: **AI Server** @ github.com
 - 2025 - 2025: **Trading Bot** for Bitcoin on Binance @ github.com
