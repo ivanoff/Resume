@@ -77,6 +77,8 @@ The projects and products I have developed from scratch
     against friends.
   AI Server: A TypeScript microservice providing an API compatible with OpenAI
     and Claude for working with local LLM models through node-llama-cpp.
+  electrobb: service that monitors Telegram power-outage updates and sends
+    alerts with schedule changes, reminders, and configurable quiet hours.
   Image Recognition Microservice: A microservice that analyzes images using
     Moondream2 and responds to specific questions about their content.
   Search Microservice: A microservice that provides a RESTful API for managing
