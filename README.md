@@ -50,6 +50,7 @@ Perl, PHP; jQuery; NestJS; Angular, Vue.js, Expo.io, Apache Cordova; Memchache, 
 - **ApiForSearch.com**: A REST API for document search with typo tolerance, filters, sorting, and variants. Can hide document data and return only IDs.
 - **Lava! Lava! Lava!**: Roblox game. Run across floating platforms, jump, sprint, and outplay the environment to reach the final platform. Play solo or race against friends.
 - **AI Server**: A TypeScript microservice providing an API compatible with OpenAI and Claude for working with local LLM models through node-llama-cpp.
+- **electrobb**: service that monitors Telegram power-outage updates and sends alerts with schedule changes, reminders, and configurable quiet hours.
 - **Image Recognition Microservice**: A microservice that analyzes images using Moondream2 and responds to specific questions about their content.
 - **Search Microservice**: A microservice that provides a RESTful API for managing and searching text data, with built-in support for synonyms. It features endpoints for adding, updating, deleting, and searching text data.
 - **Email Microservice**: A microservice for managing SMTP configurations, email templates, and sending emails using various SMTP servers and templates.
